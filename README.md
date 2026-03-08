@@ -28,6 +28,15 @@ All configuration files can be found in the **cfg folder**.
 | Refresh Rate |360hz |
 |Startup Options:| +fps_max 0 -noreflex -w 1920 -h 1080 -exec autoexec +cl_forcepreload 1 -allow_third_party_software|
 
+# Hardware
+|CPU | 9800x3d|
+|GPU|4070Super|
+|RAM|2x16 GB 6000MTs CL26|
+|Keyboard|Wooting 60HE|
+|Mouse|Endgamegear OP1w 4K PurpleFrost-Shell-Mod|
+|Monitor|Zowie XL2566K|
+|Microphone|Rode Procaster|
+
 ---
 
 # Mouse Settings
