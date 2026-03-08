@@ -29,6 +29,8 @@ All configuration files can be found in the **cfg folder**.
 |Startup Options:| +fps_max 0 -noreflex -w 1920 -h 1080 -exec autoexec +cl_forcepreload 1 -allow_third_party_software|
 
 # Hardware
+| Part |  |
+|-------|-------|
 |CPU | 9800x3d|
 |GPU|4070Super|
 |RAM|2x16 GB 6000MTs CL26|
