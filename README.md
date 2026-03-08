@@ -26,7 +26,7 @@ All configuration files can be found in the **cfg folder**.
 | Resolution |1080x1080 |
 | Aspect Ratio | 1:1|
 | Refresh Rate |360hz |
-**Startup Options:** +fps_max 0 -noreflex -w 1920 -h 1080 -exec autoexec +cl_forcepreload 1 -allow_third_party_software
+|Startup Options:| +fps_max 0 -noreflex -w 1920 -h 1080 -exec autoexec +cl_forcepreload 1 -allow_third_party_software|
 
 ---
 
