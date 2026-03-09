@@ -35,6 +35,7 @@ All configuration files can be found in the **cfg folder**.
 |GPU|4070Super|
 |RAM|2x16 GB 6000MTs CL26|
 |Keyboard|Wooting 60HE|
+|Actuationpoint WASD = 0.8, Rest = 2|Rapidtrigger 0.15 on all keys|
 |Mouse|Endgamegear OP1w 4K PurpleFrost-Shell-Mod|
 |Monitor|Zowie XL2566K|
 |Microphone|Rode Procaster|
